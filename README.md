@@ -1,6 +1,6 @@
 # LongLibriHeavy: A New Benchmark for Long-Form ASR
 
-**LongLibriHeavy** is a benchmark dataset designed to evaluate Automatic Speech Recognition (ASR) systems on long-form speech.
+**LongLibriHeavy** is a new benchmark designed to evaluate Automatic Speech Recognition (ASR) systems on **Long-Form** speech.
 
 Accepted for INTERSPEECH25
 
