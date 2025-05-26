@@ -26,9 +26,16 @@ This dataset is useful for:
 - Studying error propagation in long audio
 - Testing new segment joining and resegmentation strategies
 
+Note: This repository is actively maintained and being updated. Please note that the code and documentation are subject to changes and improvements. We recommend regularly checking for updates and referring to the latest version of the repository for the most up-to-date information.
+
 ## 📎 Citation
 
-Coming soon.
+@inproceedings{longlibriheavy,
+    title={{Exploring Linear Variant Transformers and k-NN Memory Inference for Long-Form ASR}},
+    author={Carlos Carvalho, Jinchuan Tian, William Chen, Yifan Peng, Alberto Abad, Shinji Watanabe},
+    booktitle={Proceedings of the 26th Annual Conference of the International Speech Communication Association (INTERSPEECH)},
+    year={2025},
+}
 
 ## 📄 License
 
