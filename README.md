@@ -26,7 +26,7 @@ This dataset is useful for:
 - Studying error propagation in long audio
 - Testing new segment joining and resegmentation strategies
 
-**Note: This repository is actively maintained and being updated. Please note that the code and documentation are subject to changes and improvements. We recommend regularly checking for updates and referring to the latest version of the repository for the most up-to-date information.
+**Note: This repository is actively maintained and being updated. Please note that the code and documentation are subject to changes and improvements. We recommend regularly checking for updates and referring to the latest version of the repository for the most up-to-date information.**
 
 ## 📎 Citation
 
