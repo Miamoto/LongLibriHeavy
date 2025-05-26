@@ -2,6 +2,8 @@
 
 **LongLibriHeavy** is a benchmark dataset designed to evaluate Automatic Speech Recognition (ASR) systems on long-form speech.
 
+Accepted for INTERSPEECH25
+
 🔗 Based on [LibriHeavy](https://github.com/k2-fsa/libriheavy)
 
 ## 📂 Dataset Structure
