@@ -15,8 +15,8 @@ Each split (train, dev, test) contains:
   - `duration`: Duration in seconds
   - `text`: Reference transcription
 
-- `join_mapping.csv`: Maps each new utterance ID to one or more original segments from the LibriHeavy corpus
-- ESPnet2 asr1 directory structure (KALDI based)
+- `join_mapping.csv`: Maps each new utterance ID to one or more original segments from the LibriHeavy corpus (can be used to stylize the training sets to the desired average!!!)
+- ESPnet2 asr1 directory structure (Kaldi inspired)
 
 ## 🧪 Use Case
 
