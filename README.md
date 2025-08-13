@@ -4,6 +4,10 @@
 
 Accepted for INTERSPEECH25
 
+Already available on [HugginFace](https://huggingface.co/datasets/inesc-id/longlibriheavy)  🤗
+
+Will be available on ESPnet soon. 
+
 🔗 Based on [LibriHeavy](https://github.com/k2-fsa/libriheavy)
 
 ## 📂 Dataset Structure
