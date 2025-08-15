@@ -4,7 +4,10 @@
 
 Accepted for INTERSPEECH25
 
-Already available on [HugginFace](https://huggingface.co/datasets/inesc-id/longlibriheavy)  🤗
+Already available on [HugginFace](https://huggingface.co/datasets/inesc-id/longlibriheavy) 🤗
+
+Already available on [ESPnet](https://github.com/espnet/espnet/tree/master/egs2/longlibriheavy) <img src="https://github.com/user-attachments/assets/72beb55e-beb6-4cc9-8bac-dc7fe296fbae" alt="ESPnet logo" width="100">
+
 
 Will be available on ESPnet soon. 
 
