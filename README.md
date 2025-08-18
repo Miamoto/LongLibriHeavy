@@ -8,9 +8,6 @@ Already available on [HugginFace](https://huggingface.co/datasets/inesc-id/longl
 
 Already available on [ESPnet](https://github.com/espnet/espnet/tree/master/egs2/longlibriheavy) <img src="https://github.com/user-attachments/assets/72beb55e-beb6-4cc9-8bac-dc7fe296fbae" alt="ESPnet logo" width="100">
 
-
-Will be available on ESPnet soon. 
-
 🔗 Based on [LibriHeavy](https://github.com/k2-fsa/libriheavy)
 
 ## 📂 Dataset Structure
